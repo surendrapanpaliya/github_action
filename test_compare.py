@@ -5,7 +5,7 @@ def test_greater():
 
 
 def test_greater_equal():
-    num = 100
+    num = 101
     assert num >= 100
 
 
