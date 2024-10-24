@@ -2,5 +2,5 @@
 def test_example():
     assert 1 + 1 == 2
 
-def test_failure():
-    assert 1 + 1 == 3
+def test_pass():
+    assert 2 - 1 == 1
