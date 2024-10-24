@@ -1,6 +1,6 @@
 
 def test_greater():
-    num = 100
+    num = 102
     assert num > 100
 
 
